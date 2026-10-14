@@ -1,0 +1,209 @@
+[
+  {
+    "id": "modeh-ani",
+    "title": "מוֹדֶה אֲנִי",
+    "kind": "traditional",
+    "section": "השכמת הבוקר",
+    "summary": "תודה על יום חדש ועל החזרת הנשימה.",
+    "status": "draft",
+    "file": "prayers/traditional/modeh-ani.md"
+  },
+  {
+    "id": "shema-first",
+    "title": "פָּסוּק שְׁמַע יִשְׂרָאֵל",
+    "kind": "traditional",
+    "section": "קריאת שמע",
+    "summary": "הכרזה על אחדות ה׳. **זהו פסוק אחד בלבד, לא שלוש פרשיות קריאת שמע.**",
+    "status": "draft",
+    "file": "prayers/traditional/shema-first.md"
+  },
+  {
+    "id": "psalm-23",
+    "title": "מִזְמוֹר כ״ג — ה׳ רֹעִי",
+    "kind": "traditional",
+    "section": "תהילים",
+    "summary": "מזמור של אמון, ליווי ונחמה גם בזמן פחד.",
+    "status": "draft",
+    "file": "prayers/traditional/psalm-23.md"
+  },
+  {
+    "id": "psalm-121",
+    "title": "שִׁיר לַמַּעֲלוֹת — עֶזְרִי",
+    "kind": "traditional",
+    "section": "תהילים",
+    "summary": "בקשת שמירה ועזרה בדרך.",
+    "status": "draft",
+    "file": "prayers/traditional/psalm-121.md"
+  },
+  {
+    "id": "morning-together",
+    "title": "תְּפִלַּת בֹּקֶר לָרַבִּים",
+    "kind": "original",
+    "section": "פתיחת היום",
+    "summary": "תודה על היום החדש ובקשה לעשות בו טוב.",
+    "status": "draft",
+    "file": "prayers/original/morning-together.md"
+  },
+  {
+    "id": "family-peace",
+    "title": "תְּפִלָּה לִשְׁלוֹם הַמִּשְׁפָּחָה",
+    "kind": "original",
+    "section": "משפחה",
+    "summary": "בקשת שלום ויכולת להקשיב בבית.",
+    "status": "draft",
+    "file": "prayers/original/family-peace.md"
+  },
+  {
+    "id": "voice-for-all",
+    "title": "תְּפִלָּה לְמִי שֶׁאֵין לוֹ קוֹל",
+    "kind": "original",
+    "section": "קול הרבים",
+    "summary": "תפילה עבור אנשים שדבריהם וצרכיהם אינם נשמעים.",
+    "status": "draft",
+    "file": "prayers/original/voice-for-all.md"
+  },
+  {
+    "id": "health",
+    "title": "תְּפִלָּה לִבְרִיאוּת וּלְרְפוּאָה",
+    "kind": "original",
+    "section": "משפחה",
+    "summary": "בקשת רפואה וכוחות לחולים ולמטפלים.",
+    "status": "draft",
+    "file": "prayers/original/health.md"
+  },
+  {
+    "id": "learning",
+    "title": "תְּפִלָּה לְהֲבָנָה וְלִלְמִידָה",
+    "kind": "original",
+    "section": "לימוד",
+    "summary": "בקשה ללמוד ללא בושה ובסבלנות.",
+    "status": "draft",
+    "file": "prayers/original/learning.md"
+  },
+  {
+    "id": "gratitude-community",
+    "title": "תּוֹדָה לְאַנְשֵׁי הַחֶסֶד",
+    "kind": "original",
+    "section": "הכרת הטוב",
+    "summary": "להודות לעושים למען הזולת.",
+    "status": "draft",
+    "file": "prayers/original/gratitude-community.md"
+  },
+  {
+    "id": "israel-peace",
+    "title": "תְּפִלָּה לְשָׁלוֹם יִשְׂרָאֵל",
+    "kind": "original",
+    "section": "עם ישראל",
+    "summary": "בקשת ביטחון, ערבות הדדית ושלום.",
+    "status": "draft",
+    "file": "prayers/original/israel-peace.md"
+  },
+  {
+    "id": "world-peace",
+    "title": "תְּפִלָּה לִשְׁלוֹם הָעוֹלָם",
+    "kind": "original",
+    "section": "כל העולם",
+    "summary": "בקשת חסד ושלום לכל האנושות.",
+    "status": "draft",
+    "file": "prayers/original/world-peace.md"
+  },
+  {
+    "id": "forgiveness",
+    "title": "תְּפִלָּה לִסְלִיחָה וּלְתִקּוּן",
+    "kind": "original",
+    "section": "מידות",
+    "summary": "לקיחת אחריות ובקשת תיקון.",
+    "status": "draft",
+    "file": "prayers/original/forgiveness.md"
+  },
+  {
+    "id": "evening",
+    "title": "תְּפִלַּת עֶרֶב לָרַבִּים",
+    "kind": "original",
+    "section": "ערבית",
+    "summary": "סיכום יום בבקשת מנוחה ומחר טוב.",
+    "status": "draft",
+    "file": "prayers/original/evening.md"
+  },
+  {
+    "id": "unity",
+    "title": "תְּפִלַּת הָאַחְדוּת",
+    "kind": "original",
+    "section": "קול הרבים",
+    "summary": "חיבור בין אנשים בלי למחוק את השוני.",
+    "status": "draft",
+    "file": "prayers/original/unity.md"
+  },
+  {
+    "id": "closing",
+    "title": "תְּפִלַּת סִיּוּם",
+    "kind": "original",
+    "section": "קול הרבים",
+    "summary": "לצאת מן התפילה למעשה טוב.",
+    "status": "draft",
+    "file": "prayers/original/closing.md"
+  },
+  {
+    "id": "parents",
+    "title": "תְּפִלָּה לְהוֹרִים וְלַסָּבִים",
+    "kind": "original",
+    "section": "משפחה",
+    "summary": "הכרת טוב לדורות הקודמים.",
+    "status": "draft",
+    "file": "prayers/original/parents.md"
+  },
+  {
+    "id": "livelihood",
+    "title": "תְּפִלָּה לְפַרְנָסָה וּלְמַעֲשֵׂה יָדַיִם",
+    "kind": "original",
+    "section": "משפחה",
+    "summary": "עבודה ישרה ונתינה מתוך כבוד.",
+    "status": "draft",
+    "file": "prayers/original/livelihood.md"
+  },
+  {
+    "id": "caregivers",
+    "title": "תְּפִלָּה לְאַנְשֵׁי הַהַצָּלָה וְהַטִּפּוּל",
+    "kind": "original",
+    "section": "הכרת הטוב",
+    "summary": "תודה ובקשת כוחות לאנשי טיפול והצלה.",
+    "status": "draft",
+    "file": "prayers/original/caregivers.md"
+  },
+  {
+    "id": "dedication-01-creator",
+    "title": "הודיה לבורא עולם",
+    "kind": "original",
+    "section": "הקדמה והוקרה",
+    "summary": "פרק הקדשה מתוך שער ההוקרה של הסידור.",
+    "status": "draft",
+    "file": "prayers/original/dedication-01-creator.md"
+  },
+  {
+    "id": "dedication-02-family",
+    "title": "הקדשה למשפחה",
+    "kind": "original",
+    "section": "הקדמה והוקרה",
+    "summary": "פרק הקדשה מתוך שער ההוקרה של הסידור.",
+    "status": "draft",
+    "file": "prayers/original/dedication-02-family.md"
+  },
+  {
+    "id": "dedication-03-gratitude",
+    "title": "מעגלי הכרת הטוב",
+    "kind": "original",
+    "section": "הקדמה והוקרה",
+    "summary": "פרק הקדשה מתוך שער ההוקרה של הסידור.",
+    "status": "draft",
+    "file": "prayers/original/dedication-03-gratitude.md"
+  },
+  {
+    "id": "dedication-04-voiceless",
+    "title": "תפילה למען חסרי הקול",
+    "kind": "original",
+    "section": "הקדמה והוקרה",
+    "summary": "פרק הקדשה מתוך שער ההוקרה של הסידור.",
+    "status": "draft",
+    "file": "prayers/original/dedication-04-voiceless.md"
+  }
+]
